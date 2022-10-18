@@ -1,0 +1,18 @@
+total 34K
+-rw-r--r-- 1 a0107 197609 1.9K Oct  4 20:43 202234916_이서정_lecture_note_5.md
+-rw-r--r-- 1 a0107 197609 2.3K Oct 11 03:09 202234916_이서정_lecture_note_6.md
+-rw-r--r-- 1 a0107 197609  574 Sep 27 15:05 Lab 4_202234916_이서정.md
+-rw-r--r-- 1 a0107 197609  19K Sep  5 14:56 Lab1_202234916_이서정.pdf
+drwxr-xr-x 1 a0107 197609    0 Oct 18 14:39 OSS/
+-rw-r--r-- 1 a0107 197609   89 Oct 18 14:28 README.md
+-rw-r--r-- 1 a0107 197609    0 Oct 18 14:49 file_list.txt
+-rw-r--r-- 1 a0107 197609   10 Oct 18 14:43 hello_word.txt
+total 35K
+-rw-r--r-- 1 a0107 197609 1.9K Oct  4 20:43 202234916_이서정_lecture_note_5.md
+-rw-r--r-- 1 a0107 197609 2.3K Oct 11 03:09 202234916_이서정_lecture_note_6.md
+-rw-r--r-- 1 a0107 197609  574 Sep 27 15:05 Lab 4_202234916_이서정.md
+-rw-r--r-- 1 a0107 197609  19K Sep  5 14:56 Lab1_202234916_이서정.pdf
+drwxr-xr-x 1 a0107 197609    0 Oct 18 14:39 OSS/
+-rw-r--r-- 1 a0107 197609   89 Oct 18 14:28 README.md
+-rw-r--r-- 1 a0107 197609  540 Oct 18 14:49 file_list.txt
+-rw-r--r-- 1 a0107 197609   10 Oct 18 14:43 hello_word.txt
